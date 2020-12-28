@@ -55,7 +55,7 @@ Interface de Gerenciamento do GIT
 
 - Clicar em GET para ver a descrição e parâmetros de cada método (se houver)
 
-- Clicar no botão "Ty it out" (localizado à direita) para habilitar o botão de executar o método
+- Clicar no botão "Try it out" (localizado à direita) para habilitar o botão de executar o método
 
 - Os métodos podem possuir 1, 2 ou nenhum parâmetro
 
