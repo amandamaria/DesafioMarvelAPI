@@ -31,7 +31,7 @@ Interface de Gerenciamento do GIT
 
 # Como executar
 
-- Fazer clone do repositório DesafioMarvelAPI
+- Fazer clone do repositório DesafioMarvelAPI (https://github.com/amandamaria/DesafioMarvelAPI.git)
 
 - Na IDE escolhida (já devidamente instalada) importar o projeto maven intitulado "marvel"
 
